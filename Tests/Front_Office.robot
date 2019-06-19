@@ -15,6 +15,7 @@ ${URL} =  http://www.robotframeworktutorial.com/front-office
 Should be able to access "Team" page
     [Documentation]  This is test 1
     [Tags]  Page1
+    # A change from IDE
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
 
