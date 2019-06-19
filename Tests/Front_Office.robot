@@ -20,7 +20,8 @@ Should be able to access "Team" page
 
 "Team" page should match requirements
     [Documentation]  This is test 2
-    [Tags]  Page2
+    [Tags]  Page2 
+    # A change from Git
     FrontOfficeApp.Go to Landing Page
     FrontOfficeApp.Go to "Team" Page
     FrontOfficeApp.Validate "Team" Page
